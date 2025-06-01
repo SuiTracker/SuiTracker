@@ -4,7 +4,7 @@ import requests
 from telegram import Bot
 
 # ✅ Dein Telegram Bot Token
-bot = Bot(token='7038474937:AAGfnFd_N1jv8VVBsq_Xd97bULn34mfiu0U')
+bot = Bot(token='7956426656:AAH5o_reU2KNE-rCUQXPLCh-qt-YeC-yLoU')
 
 # 🟢 SuiVision API-Endpunkt (kein Key nötig!)
 API_URL_TEMPLATE = "https://api.suivision.io/v1/account/{address}/txs"

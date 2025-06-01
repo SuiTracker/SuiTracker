@@ -3,7 +3,7 @@ from telegram import Update
 from wallet_tracker import start_tracking
 
 # 🔐 Deinen echten Telegram-Bot-Token hier einfügen
-TOKEN = '7038474937:AAGfnFd_N1jv8VVBsq_Xd97bULn34mfiu0U'
+TOKEN = '7956426656:AAH5o_reU2KNE-rCUQXPLCh-qt-YeC-yLoU'
 
 # 📩 Begrüßung bei /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
