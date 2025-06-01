@@ -1,3 +1,5 @@
+print("[BOOT] Bot.py wird gestartet...")
+
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 from telegram import Update
 from wallet_tracker import start_tracking
