@@ -7,7 +7,7 @@ from telegram import Bot
 bot = Bot(token='7038474937:AAGfnFd_N1jv8VVBsq_Xd97bULn34mfiu0U')
 
 # 🟢 SuiVision API-Endpunkt (kein Key nötig!)
-API_URL_TEMPLATE = "https://api.suivision.xyz/v1/account/{address}/txs"
+API_URL_TEMPLATE = "https://api.suivision.io/v1/account/{address}/txs"
 
 tracked_wallets = {}
 
